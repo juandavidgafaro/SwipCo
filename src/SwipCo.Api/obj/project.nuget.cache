@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/pX9QWP8/WOzjxkG0MP7rz7EsuodObu2uJa97z4fpr6tj10q6coWWq4EkP401WoTTQuD3wk64BIPeadkXDddTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\SwipCo\\SwipCo\\src\\SwipCo.Api\\SwipCo.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David Garcia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\David Garcia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\David Garcia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\David Garcia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\David Garcia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\David Garcia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
